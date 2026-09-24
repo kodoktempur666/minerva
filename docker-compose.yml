@@ -1,0 +1,16 @@
+services:
+  bot:
+    build: .
+    container_name: homka-bot
+    restart: unless-stopped
+    environment:
+      - PYTHONUNBUFFERED=1
+      - TZ=Asia/Jakarta
+    volumes:
+      # Mount config.json agar perubahan akun atau client_id otomatis tersimpan di host
+      - ./config.json:/app/config.json
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "10m"
+        max-file: "3"
