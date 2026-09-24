@@ -1,0 +1,69 @@
+{
+  "settings": {
+    "mode": "concurrent",
+    "auto_tap": true,
+    "min_taps_batch": 5,
+    "max_taps_batch": 12,
+    "min_delay_sec": 1.5,
+    "max_delay_sec": 3.0,
+    "auto_daily": true,
+    "auto_boost": true,
+    "auto_upgrade": true,
+    "max_upgrade_cost": 15000,
+    "min_reserve_coins": 1000,
+    "level_caps": {
+      "regenLvl": 5,
+      "tapLvl": 3,
+      "enLvl": 1,
+      "seeds": 0,
+      "wheel": 0,
+      "house": 0,
+      "friends": 0,
+      "farm": 0,
+      "factory": 0,
+      "rocket": 0
+    }
+  },
+  "accounts": [
+    {
+      "name": "Firman12x",
+      "enabled": true,
+      "init_data": "user=%7B%22id%22%3A7486924967%2C%22first_name%22%3A%22Firman%22%2C%22last_name%22%3A%22%E2%96%AA%EF%B8%8F%F0%9F%8D%85%F0%9F%90%BE%22%2C%22username%22%3A%22Firman12x%22%2C%22language_code%22%3A%22en%22%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FDT0xNW6eFNdHXOSHpeWShiIWbLPifYNur-_UDpvBQ3PaGCYWgZxKIZo7zLnb-wCl.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790252886&signature=zyq1f5nWN9f_EHa_bAXvgFZbzO7f47LQPAfJiM_OXKjZqd-v4QYdnfI94a1jMavkDGJbyJhV6CEkCp0sZSvvBQ&hash=dbf919bb51470985e0820a1483308b8a019f6a4dc7bbb174f1ad5cd26d8a44ed",
+      "client_id": null,
+      "ref_code": "ref_7486924967",
+      "proxy": null
+    },
+    {
+      "name": "osa",
+      "enabled": true,
+      "init_data": "user=%7B%22id%22%3A6829641820%2C%22first_name%22%3A%22osa%22%2C%22last_name%22%3A%22%E2%96%AA%EF%B8%8F%7C%20Drops%F0%9F%92%A7%22%2C%22username%22%3A%22Osaki24%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FkHMUVE4bIjewPmsVf7WAb4hGoKovU0xuJmfAPykLfsiUFqh3nQ6BQ4QT3tZLeSwB.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790253234&signature=qicKIA1Elb9AcfMB37EpmTqsDBIBmZMshZWjbTAUMI5PNlPo9Qh60etl05J_hH2z0OlssC3goyZUpdIWYT17Aw&hash=6d13ea605d8095cb77d934e0a149eb3392f0e89a96f4ea724845bcdc0c3ec905",
+      "client_id": null,
+      "ref_code": "ref_7486924967",
+      "proxy": null
+    },
+    {
+      "name": "okazaki3",
+      "enabled": true,
+      "init_data": "user=%7B%22id%22%3A7160214751%2C%22first_name%22%3A%22okazaki%203%7C%20Drops%F0%9F%92%A7%22%2C%22last_name%22%3A%22%E2%96%AA%EF%B8%8F%22%2C%22username%22%3A%22okazaki89%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FbQoynTnLG0R6pf2G1fWV5fS7Fg5zJ7ty6CPo4dzaUxQjLz03cODKwwf0EuhzxBn5.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790253298&signature=xVdbHAQ-DEhXII3PinaItov69zyWOMvKdIHkgYjHV1zDE50vCD2A7kKHau0XB1UZ0iEO9oGNEPKZEjFkAlTKDw&hash=2397ea729b6db1e785b99fed90b9455099be3a03cbcf3b8e2c3ced6eee7e0aa6",
+      "client_id": null,
+      "ref_code": "ref_7486924967",
+      "proxy": null
+    },
+    {
+      "name": "okazaki",
+      "enabled": true,
+      "init_data": "user=%7B%22id%22%3A7156013291%2C%22first_name%22%3A%22okazaki%F0%9F%8D%85%22%2C%22last_name%22%3A%22%7C%20Drops%F0%9F%92%A7%22%2C%22username%22%3A%22okazaki12x%22%2C%22language_code%22%3A%22id%22%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FO99fj1zYW3ABo47vNVSpWLAtYox-6SMcBmjCfnk6Ytk7k1Qeh4rW_RjYdLKlLFV6.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790253399&signature=44oEbEvN9Wsd-TWYeWiK0Gh4VcyrnvuuBNZoit1m5wMbZlwtzSO7ih4ZauNp1KVxoVaxiVlqy7BAVbSRHAS6AQ&hash=49b16f66f2d3872dad0f554c85e9880577656c85179a65ca2bb0a160de3f7c1c",
+      "client_id": null,
+      "ref_code": "ref_7486924967",
+      "proxy": null
+    },
+    {
+      "name": "okazaki2",
+      "enabled": true,
+      "init_data": "user=%7B%22id%22%3A7008188897%2C%22first_name%22%3A%22okazaki%202%F0%9F%8D%85%22%2C%22last_name%22%3A%22%7C%20Drops%F0%9F%92%A7%22%2C%22username%22%3A%22okazaki23%22%2C%22language_code%22%3A%22id%22%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fl51rfNJJKeonQaTgJHKmtL7ivun2POP4N60rhlJAWj1u0rfPxQntfJrQ-hgXSqQi.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790253452&signature=uMa8ME7n5EYUz9SEnXkvb8O99aSJDyuJhSytG-IfDpkdL3UqP6fooYfQyWi_gKO9uP7u5qV3cN80T9SGqSjkDQ&hash=8a48bca8bd190d09ee9249fb3766204201a6fda4aa82e919850704b74d78bd69",
+      "client_id": null,
+      "ref_code": "ref_7486924967",
+      "proxy": null
+    }
+  ]
+}

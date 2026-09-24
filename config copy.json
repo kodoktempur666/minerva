@@ -1,0 +1,45 @@
+{
+  "settings": {
+    "mode": "concurrent",
+    "auto_tap": true,
+    "min_taps_batch": 5,
+    "max_taps_batch": 12,
+    "min_delay_sec": 1.5,
+    "max_delay_sec": 3.0,
+    "auto_daily": true,
+    "auto_boost": true,
+    "auto_upgrade": true,
+    "max_upgrade_cost": 15000,
+    "min_reserve_coins": 1000,
+    "level_caps": {
+      "regenLvl": 5,
+      "tapLvl": 3,
+      "enLvl": 3,
+      "seeds": 5,
+      "wheel": 4,
+      "house": 3,
+      "friends": 2,
+      "farm": 1,
+      "factory": 0,
+      "rocket": 0
+    }
+  },
+  "accounts": [
+    {
+      "name": "Akun 1",
+      "enabled": true,
+      "init_data": "user=%7B%22id%22%3A6311855705%2C%22first_name%22%3A%22i%22%2C%22last_name%22%3A%22do%22%2C%22username%22%3A%22fridoafriyanto%22%2C%22language_code%22%3A%22en%22%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FpFkL6N-Sh-elDcNLKq7vNehoJH3oWizXRscgR6PFBg2aHQgeHcBL0PXQ-PI4NQ-Z.svg%22%7D&chat_instance=1465036634224997904&chat_type=supergroup&start_param=ref_6311855705&auth_date=1790190448&signature=W-J2h3QckXQa3E4Iw76JYMHhq-QfjKO1nYdlZSCRAMCefsklTaGtISla-gTEWGHzwjGfQqkIVKk2O1s3I9u6Ag&hash=e73676777fe34d3d5db65eae4b55548b69e078ec674035b1359b5e7141a06f4f",
+      "client_id": "065e82e6-d8d4-46fd-b2f1-0b0bfa1373dc",
+      "ref_code": "ref_6311855705",
+      "proxy": null
+    },
+    {
+      "name": "Akun 2 (Contoh)",
+      "enabled": false,
+      "init_data": "user%3D%257B%2522id%2522%253A7486924967%252C%2522first_name%2522%253A%2522Firman%2522%252C%2522last_name%2522%253A%2522%25E2%2596%25AA%25EF%25B8%258F%25F0%259F%258D%2585%25F0%259F%2590%25BE%2522%252C%2522username%2522%253A%2522Firman12x%2522%252C%2522language_code%2522%253A%2522en%2522%252C%2522photo_url%2522%253A%2522https%253A%255C%252F%255C%252Ft.me%255C%252Fi%255C%252Fuserpic%255C%252F320%255C%252FDT0xNW6eFNdHXOSHpeWShiIWbLPifYNur-_UDpvBQ3PaGCYWgZxKIZo7zLnb-wCl.svg%2522%257D%26chat_instance%3D-4175863495805544280%26chat_type%3Dgroup%26start_param%3Dref_7486924967%26auth_date%3D1790252886%26signature%3Dzyq1f5nWN9f_EHa_bAXvgFZbzO7f47LQPAfJiM_OXKjZqd-v4QYdnfI94a1jMavkDGJbyJhV6CEkCp0sZSvvBQ%26hash%3Ddbf919bb51470985e0820a1483308b8a019f6a4dc7bbb174f1ad5cd26d8a44ed",
+      "client_id": null,
+      "ref_code": "ref_6311855705",
+      "proxy": null
+    }
+  ]
+}
