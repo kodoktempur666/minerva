@@ -28,7 +28,7 @@
     {
       "name": "Firman12x",
       "enabled": true,
-      "init_data": "user=%7B%22id%22%3A7486924967%2C%22first_name%22%3A%22Firman%22%2C%22last_name%22%3A%22%E2%96%AA%EF%B8%8F%F0%9F%8D%85%F0%9F%90%BE%22%2C%22username%22%3A%22Firman12x%22%2C%22language_code%22%3A%22en%22%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FDT0xNW6eFNdHXOSHpeWShiIWbLPifYNur-_UDpvBQ3PaGCYWgZxKIZo7zLnb-wCl.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790340427&signature=5VZ64xFoGUJnPcOvIfyyUS6Lbp7WdQ2FotvVd5HpN8tFHYpUmdis-yDVCmCDLBAeV1voP6Nn2hK8MWnLfEPnDQ&hash=b2fe5acdf1aaf360fecca8b646d025a0b519eed3ab92f393a23e314cb8f8a508",
+      "init_data": "user=%7B%22id%22%3A7486924967%2C%22first_name%22%3A%22Firman%22%2C%22last_name%22%3A%22%E2%96%AA%EF%B8%8F%F0%9F%8D%85%F0%9F%90%BE%22%2C%22username%22%3A%22Firman12x%22%2C%22language_code%22%3A%22en%22%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FDT0xNW6eFNdHXOSHpeWShiIWbLPifYNur-_UDpvBQ3PaGCYWgZxKIZo7zLnb-wCl.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790427067&signature=hKp6ZIzuo7JqTlsSOuYygNTEYwgnDaEVyOeSMGStexc2YEPSIr5m02cIqqbzmycApahN2ocz5P2ezl2tVfL0DA&hash=5a6c01e541422c45862d02400c03375c59610a3271651f226cd3b40b65b25419",
       "client_id": null,
       "ref_code": "ref_7486924967",
       "proxy": null
@@ -36,7 +36,7 @@
     {
       "name": "osa",
       "enabled": true,
-      "init_data": "user=%7B%22id%22%3A6829641820%2C%22first_name%22%3A%22osa%22%2C%22last_name%22%3A%22%E2%96%AA%EF%B8%8F%7C%20Drops%F0%9F%92%A7%22%2C%22username%22%3A%22Osaki24%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FkHMUVE4bIjewPmsVf7WAb4hGoKovU0xuJmfAPykLfsiUFqh3nQ6BQ4QT3tZLeSwB.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790340470&signature=X5tHGA1pTFMughELehx26RZKzdS6dt0AzT1N9QPDlhYyjO4F_NKNMBWteIpWM_GMLDGOREoUbYmTjBJMIstMDw&hash=0cc7a7acf8942b8746ecbbec1f29fdf0f714fdab382cc7b0e8604211d2a63185",
+      "init_data": "user=%7B%22id%22%3A6829641820%2C%22first_name%22%3A%22osa%22%2C%22last_name%22%3A%22%E2%96%AA%EF%B8%8F%7C%20Drops%F0%9F%92%A7%22%2C%22username%22%3A%22Osaki24%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FkHMUVE4bIjewPmsVf7WAb4hGoKovU0xuJmfAPykLfsiUFqh3nQ6BQ4QT3tZLeSwB.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790427191&signature=xxm84tBHF7TbnZRX3f4fQgqgYoxQ8BpN7nA3520j_pKkF-dSr_Qw4-6pJUpZ9awGSu7TcKfERS19pNcX9clCDg&hash=2014ca74adec35d8ec6005e2f6819ce911b01ad0e8ac75964a97d16703e6eec5",
       "client_id": null,
       "ref_code": "ref_7486924967",
       "proxy": null
@@ -44,7 +44,7 @@
     {
       "name": "okazaki3",
       "enabled": true,
-      "init_data": "user=%7B%22id%22%3A7160214751%2C%22first_name%22%3A%22okazaki%203%7C%20Drops%F0%9F%92%A7%22%2C%22last_name%22%3A%22%E2%96%AA%EF%B8%8F%22%2C%22username%22%3A%22okazaki89%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FbQoynTnLG0R6pf2G1fWV5fS7Fg5zJ7ty6CPo4dzaUxQjLz03cODKwwf0EuhzxBn5.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790340498&signature=z3_6vKxcBdIHtVjJEZL_yjnlSMd2KFDWael44nHwY3Opz7DqS8g7PL5iGksoe3BcCw6yTIEqGGI4c5aBV4vjDw&hash=77153f10cc57d7c38b23a70fedee59b27277604cafc69f7ccfb348829997da3a",
+      "init_data": "user=%7B%22id%22%3A7160214751%2C%22first_name%22%3A%22okazaki%203%7C%20Drops%F0%9F%92%A7%22%2C%22last_name%22%3A%22%E2%96%AA%EF%B8%8F%22%2C%22username%22%3A%22okazaki89%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FbQoynTnLG0R6pf2G1fWV5fS7Fg5zJ7ty6CPo4dzaUxQjLz03cODKwwf0EuhzxBn5.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790427223&signature=_W9x70r2IwAbFc4sS8wpZuociZZ3510fU0EIslpTVC9rAg_oAdBUeoHeNfOGvDBgyu4eJMN2jmBsXkafSYBWBQ&hash=fc86c21fca8a8f319eccef98f0a0297046df97a8fbf329d878fdeda8a82ebe5f",
       "client_id": null,
       "ref_code": "ref_7486924967",
       "proxy": null
@@ -52,7 +52,7 @@
     {
       "name": "okazaki",
       "enabled": true,
-      "init_data": "user=%7B%22id%22%3A7156013291%2C%22first_name%22%3A%22okazaki%F0%9F%8D%85%22%2C%22last_name%22%3A%22%7C%20Drops%F0%9F%92%A7%22%2C%22username%22%3A%22okazaki12x%22%2C%22language_code%22%3A%22id%22%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FO99fj1zYW3ABo47vNVSpWLAtYox-6SMcBmjCfnk6Ytk7k1Qeh4rW_RjYdLKlLFV6.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790340532&signature=JFnaBdUSvdpOTRId4y8Id4hGCUnq7-hJNPjO89fnTbgAaHgSxyRw8n-XlyMXTF-cuCsWP_S8OFRhZxR68fCOBQ&hash=44c036653fec3d38a237d96ef60429282458dda64f14de41dd5775fd38fc7992",
+      "init_data": "user=%7B%22id%22%3A7156013291%2C%22first_name%22%3A%22okazaki%F0%9F%8D%85%22%2C%22last_name%22%3A%22%7C%20Drops%F0%9F%92%A7%22%2C%22username%22%3A%22okazaki12x%22%2C%22language_code%22%3A%22id%22%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2FO99fj1zYW3ABo47vNVSpWLAtYox-6SMcBmjCfnk6Ytk7k1Qeh4rW_RjYdLKlLFV6.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790427264&signature=ecdbHI76VNQTv_11jJug5-bxTY73Kx1XDA07gMaI0RhEh6m7Y239bbKeVZ5PncQxf8d8bcz5yNcqxbXKK3iXBw&hash=9ca68a01afb8bc154ee0b7e6caca11e826ee4fa873631ce2201bab904f7ac995",
       "client_id": null,
       "ref_code": "ref_7486924967",
       "proxy": null
@@ -60,7 +60,7 @@
     {
       "name": "okazaki2",
       "enabled": true,
-      "init_data": "user=%7B%22id%22%3A7008188897%2C%22first_name%22%3A%22okazaki%202%F0%9F%8D%85%22%2C%22last_name%22%3A%22%7C%20Drops%F0%9F%92%A7%22%2C%22username%22%3A%22okazaki23%22%2C%22language_code%22%3A%22id%22%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fl51rfNJJKeonQaTgJHKmtL7ivun2POP4N60rhlJAWj1u0rfPxQntfJrQ-hgXSqQi.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790340557&signature=gJVeVpb_jxV8rugfqNC9fXY1AIvqjWpWYZdevrsmpklgMC-p4ioM1NEbXyzxT-XbWnHQwe17tyx0BKSucWG6Bg&hash=ef1ae39edd759a850d41ca6c2ca2d529fa63cccd3da782679369630233302deb",
+      "init_data": "user=%7B%22id%22%3A7008188897%2C%22first_name%22%3A%22okazaki%202%F0%9F%8D%85%22%2C%22last_name%22%3A%22%7C%20Drops%F0%9F%92%A7%22%2C%22username%22%3A%22okazaki23%22%2C%22language_code%22%3A%22id%22%2C%22photo_url%22%3A%22https%3A%5C%2F%5C%2Ft.me%5C%2Fi%5C%2Fuserpic%5C%2F320%5C%2Fl51rfNJJKeonQaTgJHKmtL7ivun2POP4N60rhlJAWj1u0rfPxQntfJrQ-hgXSqQi.svg%22%7D&chat_instance=-4175863495805544280&chat_type=group&start_param=ref_7486924967&auth_date=1790427290&signature=oAXkCKFHGGN7FeuiZ_Z5MCY_lHVdQsFuKNfn-zr0Ujw-lp4EXDzIX7b2SXBL5r0pkFtKtrx0AwI4xDeJYGq0BA&hash=d912269c1531911233b339adc75d1bce7d3143a0b92766f850520c9ed8bb859a",
       "client_id": null,
       "ref_code": "ref_7486924967",
       "proxy": null
